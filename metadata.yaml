@@ -1,0 +1,36 @@
+_repo: '------_34874'
+_version: 0.1.0
+alternative_title: Phaedo
+contributor:
+  translator:
+    agent_name: Harokopos, Aristeidis
+    alias: Χαροκόπος, Αριστείδης
+    birthdate: 1851
+    gutenberg_agent_id: '35200'
+    url: http://www.gutenberg.org/2009/agents/35200
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34874'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immortality (Philosophy) -- Early works to 1800'
+- !lcc 'B'
+title: Φαίδων
+url: http://www.gutenberg.org/ebooks/34874
